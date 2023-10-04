@@ -21,7 +21,7 @@ class IgnoreExpansionTile extends StatefulWidget {
     this.contentPadding,
     this.onTap,
     required this.children,
-    required this.shape,
+      this.shape,
   });
 
   @override
